@@ -1,0 +1,20 @@
+.container {
+    
+    
+}
+
+.logo {
+    width: 195px;
+    height: 74px;
+    background-image: url(../Eigene%20Seite/Bilder/logo.png)
+    background-repeat: no-repeat;
+}
+
+.navbar-header {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items:center;
+    
+    
+}
